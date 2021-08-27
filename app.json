@@ -30,7 +30,7 @@
             "value": ""
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "description": "Username of your channel",
             "value": ""
         },
         "ADMINS": {
@@ -43,8 +43,8 @@
             "required": false
         },
         "AUTH_CHANNEL": {
-            "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
-            "value": "",
+            "description": "Don't ever change this value",
+            "value": "all_super_movies",
             "required": false
         },
         "START_MSG": {
@@ -64,7 +64,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "",
+            "value": "Join @free_music123",
             "required": false
         },
         "AUTH_GROUPS": {
